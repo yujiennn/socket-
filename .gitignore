@@ -1,0 +1,6 @@
+.vscode/
+a.out
+client
+server
+output/client
+output/server
